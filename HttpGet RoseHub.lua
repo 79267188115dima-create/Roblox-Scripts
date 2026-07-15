@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://pastebin.com/raw/YH7x3naH'),true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bao8jl/solixhub/main/loader"))()
